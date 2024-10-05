@@ -26,7 +26,7 @@ Este é um projeto em JavaScript que permite ao usuário inserir dados sobre med
 
 2. Navegue até a pasta do projeto:
 
-cd caminho/para/o/projeto
+   cd caminho/para/o/projeto
 
 
 3. Abra o arquivo index.html ou qualquer arquivo JavaScript contendo o código, ou abra o arquivo JS diretamente.
