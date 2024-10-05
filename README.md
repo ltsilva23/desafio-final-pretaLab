@@ -1,4 +1,4 @@
-# Calculador de Medalhas
+# Rankings de Medalhas 
 
 Este é um projeto em JavaScript que permite ao usuário inserir dados sobre medalhas de diferentes países e calcular estatísticas como total de medalhas, média por país, país com mais medalhas e país com menos medalhas.
 
