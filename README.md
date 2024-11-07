@@ -15,8 +15,9 @@ Este é um projeto em JavaScript que permite ao usuário inserir dados sobre med
 2. Acesse as ferramentas de desenvolvedor pressionando `F12`.
 3. Navegue até a aba "Console".
 4. Copie e cole o código JavaScript diretamente no console ou acesse o [código-fonte aqui](https://github.com/ltsilva23/desafio-final-pretaLab/blob/main/ranking-medalha.js) e copie o conteúdo para o console.
+5. Se aparecer um aviso de segurança, digite "allow paste" e pressione Enter para permitir a colagem. Caso isso não funcione, digite {PID}, pressione Enter e então cole o código novamente.
 
-5. Pressione `Enter` para executar o código e siga as instruções no prompt para inserir os dados dos países e suas medalhas.
+6. Pressione `Enter` para executar o código e siga as instruções no prompt para inserir os dados dos países e suas medalhas.
 
 ### 2. Clonando o repositório e executando
 
